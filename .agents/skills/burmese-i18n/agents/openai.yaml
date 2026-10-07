@@ -1,0 +1,4 @@
+interface:
+  display_name: "Burmese i18n"
+  short_description: "Build culturally natural Burmese interfaces"
+  default_prompt: "Use $burmese-i18n to review and improve this multilingual interface."

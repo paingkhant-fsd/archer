@@ -1,0 +1,4 @@
+interface:
+  display_name: "GitHub Source Publishing"
+  short_description: "Publish multi-repo projects safely to GitHub"
+  default_prompt: "Use $github-source-publishing to prepare and publish this app, API, mobile, and root repository to GitHub."
